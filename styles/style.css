@@ -25,7 +25,7 @@ body {
 }
 
 .logo {
-    width: 340px;
+    width: 10%;
     height: auto;
     margin-bottom: 15px;
     filter: drop-shadow(0 4px 6px rgba(0, 150, 255, 0.5));
